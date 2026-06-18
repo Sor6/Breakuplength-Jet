@@ -1,0 +1,65 @@
+Density (kg/m^3): 1045.2
+Surface tension (mNm): 70.83
+Viscosity (mPa s): 1.7
+Needle diameter (micrometers): 460
+
+Measurement_01(1450)_lengths.txt:
+flow rate (g/min): 8.3788
+mean jet length (mm): 15.200560872274142
+standard deviation (mm): 1.8878205211954868
+
+Measurement_02(1550)_lengths.txt:
+flow rate (g/min): 8.8490
+mean jet length (mm): 18.03422577362409
+standard deviation (mm): 0.9751971516253585
+
+Measurement_03(1650)_lengths.txt:
+flow rate (g/min): 9.3336
+mean jet length (mm): 19.458469158878504
+standard deviation (mm): 0.9077469407164541
+
+Measurement_04(1750)_lengths.txt:
+flow rate (g/min): 9.9226
+mean jet length (mm): 20.76509777777778
+standard deviation (mm): 1.1011751820651914
+
+Measurement_05(1850)_lengths.txt:
+flow rate (g/min): 10.3975
+mean jet length (mm): 22.177750134994806
+standard deviation (mm): 1.0162639436405303
+
+Measurement_06(1950)_lengths.txt:
+flow rate (g/min): 10.7150
+mean jet length (mm): 22.83356384215992
+standard deviation (mm): 1.0213866214284408
+
+Measurement_07(2050)_lengths.txt:
+flow rate (g/min): 11.3741
+mean jet length (mm): 24.49168976116303
+standard deviation (mm): 1.1588812279950071
+
+Measurement_08(2150)_lengths.txt:
+flow rate (g/min): 11.8112
+mean jet length (mm): 25.622919127725854
+standard deviation (mm): 1.3290134355408318
+
+Measurement_09(2250)_lengths.txt:
+flow rate (g/min): 12.1434
+mean jet length (mm): 24.954956282450674
+standard deviation (mm): 1.2783439263844774
+
+Measurement_10(2350)_lengths.txt:
+flow rate (g/min): 12.7910
+mean jet length (mm): 27.00140093457944
+standard deviation (mm): 1.2172909740377134
+
+Measurement_11(2450)_lengths.txt:
+flow rate (g/min): 13.1625
+mean jet length (mm): 28.040903094496365
+standard deviation (mm): 1.1637117202535296
+
+Measurement_12(2550)_lengths.txt:
+flow rate (g/min): 13.6534
+mean jet length (mm): 29.24804147455867
+standard deviation (mm): 1.4286321399766833
+
