@@ -5,8 +5,8 @@ Needle diameter (micrometers): 231.6
 
 Measurement_01(550)_lengths.txt:
 flow rate (g/min): 2.9627
-mean jet length (mm): 0.0
-standard deviation (mm): 0.0
+mean jet length (mm): 8.35217266874351
+standard deviation (mm): 0.5401372838574646
 
 Measurement_02(580)_lengths.txt:
 flow rate (g/min): 3.1148
