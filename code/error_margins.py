@@ -6,7 +6,7 @@ import os
 path = r"./Results 08-06-2026"
 
 # name under which the output file will be saved:
-save_name = "errors"
+save_name = "all_data"
 
 
 # outputs the mean jet length and standard deviation:
