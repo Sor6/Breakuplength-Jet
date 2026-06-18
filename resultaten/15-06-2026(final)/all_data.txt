@@ -63,3 +63,17 @@ flow rate (g/min): 13.6534
 mean jet length (mm): 29.24804147455867
 standard deviation (mm): 1.4286321399766833
 
+Measurement_13(2650)_lengths.txt:
+flow rate (g/min): 13.7954
+mean jet length (mm): 30.48090330218069
+standard deviation (mm): 1.1752930332869918
+
+Measurement_14(2750)_lengths.txt:
+flow rate (g/min): 14.2520
+mean jet length (mm): 30.816638920041537
+standard deviation (mm): 1.8843159269842955
+
+Measurement_15(2850)_lengths.txt:
+flow rate (g/min): 14.7438
+mean jet length (mm): 31.473398857736242
+standard deviation (mm): 1.2582991547027242
