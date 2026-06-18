@@ -1,0 +1,30 @@
+import numpy as np
+import matplotlib.pyplot as plt
+import math
+
+
+rho = 1045 
+sigma = 0.07083
+D = 231.6 * 10 ** (-6)
+A = math.pi * D ** 2 / 4
+
+flow_rates = np.array([8.3788, 8.8490, 9.3336, 9.9226, 10.3975, 10.7150, 11.3741, 11.8112, 12.1434, 12.7910, 13.1625, 13.6534, 14.0436, 14.4283, 14.8703, 15.4471, 15.7075, 16.2953, 16.5683, 16.9746, 17.5062, 18.0243, 18.3355, 18.5916, 19.1299, 19.4936]) / (6 * 10 ** 4)
+
+jet_lengths = np.array([15.201, 18.034, 19.458, 20.765, 22.178, 22.834, 24.492, 25.623, 25.007, 27.001, 28.041, 29.248, 30.481, 30.874, 31.473, 25.734, 26.430, 27.838, 28.375, 28.844, 29.073, 29.687, 30.579, 31.351, 33.026, 34.114]) / 1000
+
+
+h_over_D = jet_lengths / D
+u = flow_rates / (rho * A)
+We = (rho * u ** 2 * D) / (sigma)
+
+
+fig = plt.figure()
+ax = fig.add_axes([0.15, 0.1, 0.8, 0.8])
+ax.plot(We, h_over_D, marker="+", markersize = None, ls="None", color = "black")
+ax.set_title("Jet Breakup")
+ax.set_xlabel("$We$")
+ax.set_ylabel(r"$\frac{h_0}{D}$")
+
+plt.savefig("Jet_lengths_version2_15-06-2026.png")
+
+plt.show()
